@@ -1,4 +1,5 @@
 ## Natural-Sampling
+Rithesh kumar G
 ## Aim :
 
 To perform Natural Sampling of a continuous-time message signal using a pulse train and reconstruct the signal using a low-pass filter.
